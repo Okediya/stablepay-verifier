@@ -258,7 +258,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 This tool is **read-only** and never requests private keys or signing capabilities. It only queries public blockchain data.
 
-If you find a security issue, please report it privately to security@example.com.
+If you find a security issue, please report it privately to @I_am_Okediya on X.
 
 ---
 
