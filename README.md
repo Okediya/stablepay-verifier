@@ -44,7 +44,7 @@ pip install stablepay-verifier
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/stablepay-verifier.git
+git clone https://github.com/Okediya/stablepay-verifier.git
 cd stablepay-verifier
 pip install -e .
 ```
@@ -52,7 +52,7 @@ pip install -e .
 ### With Poetry
 
 ```bash
-git clone https://github.com/yourusername/stablepay-verifier.git
+git clone https://github.com/Okediya/stablepay-verifier.git
 cd stablepay-verifier
 poetry install
 ```
@@ -216,7 +216,7 @@ stablepay verify -a 0x... -m 100 --rpc https://polygon-mainnet.g.alchemy.com/v2/
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/stablepay-verifier.git
+git clone https://github.com/Okediya/stablepay-verifier.git
 cd stablepay-verifier
 poetry install --with dev
 ```
